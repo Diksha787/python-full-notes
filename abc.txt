@@ -1,0 +1,2 @@
+python is a interpreter and programming language
+ hello python is a interpreter and programming language 
